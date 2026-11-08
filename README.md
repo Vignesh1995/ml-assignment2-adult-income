@@ -21,7 +21,7 @@ saved models on an uploaded test CSV.
 ## c. GitHub repository link
 https://github.com/Vignesh1995/ml-assignment2-adult-income
 
-Live app: <ADD YOUR STREAMLIT LINK HERE>
+Live app: https://ml-assignment2-adult-income-qyprfmgbq4qkgmo79aiwib.streamlit.app/
 
 ```
 ├── app.py              # Streamlit app
